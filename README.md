@@ -25,7 +25,7 @@ Welcome to **Amplify AI Helper**, a serverless React application that leverages 
 
 **Amplify AI Helper** is designed to demonstrate a **serverless** approach to building a robust **React** frontend powered by AWS Amplify’s **GraphQL** (AppSync) backend. It integrates with **Bedrock** to call the **Anthropic Claude** model for personalized recommendations. With just a few clicks (or commands), you can spin up an AI helper that can be extended to any domain (e.g., travel, food, study plans, or other creative use cases).
 
-**SEO Keywords**: AWS Amplify, React, Serverless, Bedrock, Anthropic Claude, Travel Recommendations, Food Recommendations, AI Chatbot, GraphQL, TypeScript.
+**Keywords**: AWS Amplify, React, Serverless, Bedrock, Anthropic Claude, Travel Recommendations, Food Recommendations, AI Chatbot, GraphQL, TypeScript.
 
 ---
 
