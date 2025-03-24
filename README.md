@@ -2,6 +2,8 @@
 
 Welcome to **Amplify AI Helper**, a serverless React application that leverages **AWS Amplify**, **AWS AppSync**, and **Anthropic Claude** (via **Bedrock**) to provide multiple AI-driven suggestions (travel ideas, food, study plans, and more).
 
+<img src="./demo.gif" style="width:50%">
+
 ---
 
 ## Table of Contents
@@ -189,4 +191,5 @@ Thank you for checking out **Amplify AI Helper**! We hope it serves as a great s
 ```
 
 ```
+
 # Amplify-AI-Helper
