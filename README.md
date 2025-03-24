@@ -188,5 +188,4 @@ Thank you for checking out **Amplify AI Helper**! We hope it serves as a great s
 
 ```
 
-```
 # Amplify-AI-Helper
